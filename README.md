@@ -1,10 +1,12 @@
-OVERVIEW:
+<h1 align="center"> OVERVIEW </h1> <br>
+
 In this project, Python is used to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
 
 The source code takes in raw input from the user to create an interactive experience.
 According to the input the code will import the data and will provide information by computing descriptive statistics.
 
-DATASETS
+<h1 align="center"> DATASETS </h1> <br>
+
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
     -Start Time (e.g., 2017-01-01 00:07:57)
@@ -19,7 +21,7 @@ The Chicago and New York City files also have the following two columns:
     -Gender
     -Birth Year
 
-STATISTICS COMPUTED
+<h1 align="center"> STATISTICS COMPUTED </h1>
 In this project, the code is written to provide the following information:
 
   1.Popular times of travel (i.e., occurs most often in the start time)
