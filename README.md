@@ -22,20 +22,20 @@ The Chicago and New York City files also have the following two columns:
     -Birth Year
 
 <h1 align="center"> STATISTICS COMPUTED </h1>
-In this project, the code is written to provide the following information:
+In this project, the code is written to provide the following information:<br>
 
-  1.Popular times of travel (i.e., occurs most often in the start time)
-    -most common month
-    -most common day of week
-    -most common hour of day
+  1.Popular times of travel (i.e., occurs most often in the start time)<br>
+    -most common month<br>
+    -most common day of week<br>
+    -most common hour of day<br>
   2.Popular stations and trip
-    most common start station
-    most common end station
-    most common trip from start to end (i.e., most frequent combination of start station and end station)
-  3.Trip duration
-    -total travel time
-    -average travel time
-  4.User info
-    -counts of each user type
-    -counts of each gender (only available for NYC and Chicago)
-    -earliest, most recent, most common year of birth (only available for NYC and Chicago)
+    most common start station<br>
+    most common end station<br>
+    most common trip from start to end (i.e., most frequent combination of start station and end station)<br>
+  3.Trip duration<br>
+    -total travel time<br>
+    -average travel time<br>
+  4.User info<br>
+    -counts of each user type<br>
+    -counts of each gender (only available for NYC and Chicago)<br>
+    -earliest, most recent, most common year of birth (only available for NYC and Chicago)<br>
